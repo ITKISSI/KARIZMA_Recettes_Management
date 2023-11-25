@@ -20,4 +20,4 @@ Instructions:
 1- Run MySql on xamp or wamp
 2- Spring boot application
 3- Run npm install in react application 
-4- Run React application (npm start )
+4- Run React application (npm start ).
